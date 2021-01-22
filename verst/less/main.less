@@ -1,0 +1,22 @@
+.header(@fz:15px,@fw:400){
+	background-color: #fff;
+	font-size: @fz;
+	font-weight: @fw;
+}
+.section-header{
+	.header;
+}
+@font-size: 20px;
+@background:blue;
+
+.section-header{
+	background-color:@background;
+	font-size: @font-size;
+}
+.section-header{
+	.header();
+}
+.mainr{
+	.header(10px,500);
+
+}
