@@ -1,2 +1,5 @@
 # Yerkin abi zadr
-ljefneuwfnlwemfmewfw
+yerkinAbi.github.io/verst/index.html
+[lowara]{yerkinAbi.github.io/verst/index.html
+ ""}
+ert
